@@ -12,6 +12,6 @@ import RxSwift
 
 extension FIRDatabaseReference {
     
-    func funstuff()
+    func funstuff(){}
     
 }
