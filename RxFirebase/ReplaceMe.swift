@@ -10,8 +10,8 @@ import Foundation
 import Firebase
 import RxSwift
 
-extension FIRDatabaseReference {
+public extension FIRDatabaseReference {
     
-    func funstuff(){}
+    public func funstuff(){}
     
 }
